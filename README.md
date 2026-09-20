@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Archi Gupta 👋
 
-<!--
-**archigupta28/archigupta28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Data Science Student  
+📍 Nagpur, India
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Data Science student interested in Data Analytics, Machine Learning and Artificial Intelligence.
+
+- 🌱 Currently learning Python, SQL and Machine Learning
+- 📊 Interested in Data Analytics and Visualization
+- 💻 Learning C++ and Data Structures
+- 🚀 Building projects to improve my practical skills
+- 📚 Preparing for GATE
+
+## 🛠️ Skills
+
+**Programming:**  
+Python • C++ • SQL
+
+**Data Science:**  
+Pandas • NumPy • Matplotlib • Machine Learning
+
+**Database:**  
+MySQL • DBMS
+
+**Other:**  
+Git • GitHub • Power BI
+
+## 📌 Projects
+
+🚧 Projects coming soon...
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn profile link here
+
+---
+
+⭐ Thanks for visiting my profile!
